@@ -1,0 +1,41 @@
+{
+  "location": "Shackleton Crater Rim, Lunar South Pole",
+  "source_notes": "Radiation ~ LRO CRaTER dose rate archive. Temp ~ Diviner Lunar Radiometer. Sunlight ~ Moon Trek illumination data. Replace 'value' fields with real exported numbers before the hackathon.",
+  "days": [
+	{
+	  "day": 1,
+	  "date": "2026-01-01",
+	  "radiation_dose_rate": 0.38,
+	  "surface_temp_c": -171,
+	  "sunlight_hours": 20.5
+	},
+	{
+	  "day": 2,
+	  "date": "2026-01-02",
+	  "radiation_dose_rate": 0.41,
+	  "surface_temp_c": -179,
+	  "sunlight_hours": 14.0
+	},
+	{
+	  "day": 3,
+	  "date": "2026-01-03",
+	  "radiation_dose_rate": 0.52,
+	  "surface_temp_c": -183,
+	  "sunlight_hours": 6.5
+	},
+	{
+	  "day": 4,
+	  "date": "2026-01-04",
+	  "radiation_dose_rate": 0.47,
+	  "surface_temp_c": -168,
+	  "sunlight_hours": 22.0
+	},
+	{
+	  "day": 5,
+	  "date": "2026-01-05",
+	  "radiation_dose_rate": 0.63,
+	  "surface_temp_c": -190,
+	  "sunlight_hours": 2.0
+	}
+  ]
+}
