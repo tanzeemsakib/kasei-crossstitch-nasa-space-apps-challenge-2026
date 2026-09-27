@@ -1,3 +1,21 @@
+# CHALLENGE
+Build a Junior Astronaut Mission Trainer
+
+Space-themed STEM content often oversimplifies the engineering trade-offs
+that define a real mission or presents them at a level too complex to
+hold a young learner's attention. Few tools make those trade-offs both
+tangible and fun. Your challenge is to design and build an interactive
+game or app that lets students run a lunar or Martian outpost, balancing
+competing demands like life support, radiation shielding, power, and food
+production, so they experience firsthand the decisions that determine
+whether a mission fails or succeeds.
+
+# MY SOLUTION — A Tamagotchi-Style Mars Outpost Survival Game (Godot 4.x)
+
+**Core idea:** instead of a digital pet, the player keeps a Mars outpost
+alive, using real NASA environmental data to drive daily threats. A small
+creature mascot lives at the outpost and visibly reacts to how it's doing.
+
 # Junior Astronaut Mission Trainer
 
 A tamagotchi-style Mars outpost survival game built in **Godot 4.x**, made for
