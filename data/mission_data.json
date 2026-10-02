@@ -1,0 +1,93 @@
+{
+  "location": "Gale Crater, Mars (radiation) \u2014 temperature/sunlight pending",
+  "radiation_source": "MSL/RAD E-detector dose rate, notch-filtered, sol-averaged (Heber & L\u00f6we 2026, Zenodo doi:10.5281/zenodo.20536564)",
+  "temperature_source": "",
+  "sunlight_note": "",
+  "source_notes": "Radiation is real MSL/RAD data (sols 1500-1513 of the mission). Temperature and sunlight fields are still placeholders pending a second real dataset.",
+  "days": [
+	{
+	  "date": "SOL 1500",
+	  "radiation_dose_rate": 0.261,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1501",
+	  "radiation_dose_rate": 0.261,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1502",
+	  "radiation_dose_rate": 0.262,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1503",
+	  "radiation_dose_rate": 0.264,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1504",
+	  "radiation_dose_rate": 0.265,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1505",
+	  "radiation_dose_rate": 0.265,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1506",
+	  "radiation_dose_rate": 0.268,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1507",
+	  "radiation_dose_rate": 0.269,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1508",
+	  "radiation_dose_rate": 0.27,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1509",
+	  "radiation_dose_rate": 0.272,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1510",
+	  "radiation_dose_rate": 0.272,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1511",
+	  "radiation_dose_rate": 0.272,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1512",
+	  "radiation_dose_rate": 0.276,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	},
+	{
+	  "date": "SOL 1513",
+	  "radiation_dose_rate": 0.275,
+	  "surface_temp_c": null,
+	  "sunlight_hours": null
+	}
+  ]
+}
