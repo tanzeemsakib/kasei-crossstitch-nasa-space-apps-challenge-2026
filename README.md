@@ -6,7 +6,7 @@
 - **Fatima Mahzabin**: art director, character and UI art
 
 **Play it in the browser (no download, no account):**
-`(https://tanzeemsakib.github.io/kasei-crossstitch-nasa-space-apps-challenge-2026/)` · also on itch.io: `(https://tanzeem-ahmed-sakib.itch.io/kasei)`
+`https://tanzeemsakib.github.io/kasei-crossstitch-nasa-space-apps-challenge-2026/` · also on itch.io: `https://tanzeem-ahmed-sakib.itch.io/kasei`
 
 > A student entry for the NASA Space Apps Challenge. Not an official NASA product.
 
