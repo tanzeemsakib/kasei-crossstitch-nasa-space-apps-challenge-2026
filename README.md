@@ -6,7 +6,7 @@
 - **Fatima Mahzabin**: art director, character and UI art
 
 **Play it in the browser (no download, no account):**
-`<PASTE GITHUB PAGES LINK>` · also on itch.io: `<PASTE ITCH GAME LINK>`
+`(https://tanzeemsakib.github.io/kasei-crossstitch-nasa-space-apps-challenge-2026/)` · also on itch.io: `(https://tanzeem-ahmed-sakib.itch.io/kasei)`
 
 > A student entry for the NASA Space Apps Challenge. Not an official NASA product.
 
@@ -158,7 +158,7 @@ layout scales as one unit to any screen.
 ```
 project.godot
 data/mission_data.json        # per-sol real data + sources + archive note
-scripts/
+script/
   DataLoader.gd               # autoload: loads the data, get_day(n)
   StatsManager.gd             # autoload: game logic
   OutpostUI.gd                # main scene controller
