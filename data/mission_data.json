@@ -1,0 +1,122 @@
+{
+  "location": "Gale Crater, Mars (Curiosity rover)",
+  "radiation_source": "MSL/RAD E-detector dose rate, notch-filtered, sol-averaged (Heber & Löwe 2026, Zenodo doi:10.5281/zenodo.20536564)",
+  "temperature_source": "MSL/REMS ambient air temperature and pressure (calibrated MODRDR data, NASA PDS Atmospheres Node). Surface temperature shown is each sol's night low and daytime high; pressure is the sol's mean.",
+  "sunlight_note": "Hours the Sun is above the rover's horizon, worked out from REMS solar-geometry data. Rover tilt shifts sunrise and sunset by a few minutes, so values vary slightly from sol to sol.",
+  "archive_note": "Archived data, not live: Curiosity at Gale Crater, sols 1500 to 1513 (24 Oct to 7 Nov 2016). Radiation from RAD; air temperature, pressure and sunlight from REMS.",
+  "source_notes": "All values are real Curiosity measurements, processed per sol for this game. Mars sols are about 24 h 40 min.",
+  "days": [
+	{
+	  "date": "SOL 1500",
+	  "radiation_dose_rate": 0.261,
+	  "surface_temp_c": -71.2,
+	  "surface_temp_max_c": -4.6,
+	  "sunlight_hours": 11.99,
+	  "pressure_pa": 905.3
+	},
+	{
+	  "date": "SOL 1501",
+	  "radiation_dose_rate": 0.261,
+	  "surface_temp_c": -69.2,
+	  "surface_temp_max_c": 4.0,
+	  "sunlight_hours": 12.7,
+	  "pressure_pa": 898.9
+	},
+	{
+	  "date": "SOL 1502",
+	  "radiation_dose_rate": 0.262,
+	  "surface_temp_c": -66.9,
+	  "surface_temp_max_c": 0.0,
+	  "sunlight_hours": 11.83,
+	  "pressure_pa": 915.9
+	},
+	{
+	  "date": "SOL 1503",
+	  "radiation_dose_rate": 0.264,
+	  "surface_temp_c": -68.6,
+	  "surface_temp_max_c": 1.8,
+	  "sunlight_hours": 12.64,
+	  "pressure_pa": 909.3
+	},
+	{
+	  "date": "SOL 1504",
+	  "radiation_dose_rate": 0.265,
+	  "surface_temp_c": -68.5,
+	  "surface_temp_max_c": -2.5,
+	  "sunlight_hours": 12.14,
+	  "pressure_pa": 918.7
+	},
+	{
+	  "date": "SOL 1505",
+	  "radiation_dose_rate": 0.265,
+	  "surface_temp_c": -70.1,
+	  "surface_temp_max_c": 0.6,
+	  "sunlight_hours": 12.15,
+	  "pressure_pa": 895.5
+	},
+	{
+	  "date": "SOL 1506",
+	  "radiation_dose_rate": 0.268,
+	  "surface_temp_c": -73.7,
+	  "surface_temp_max_c": -2.3,
+	  "sunlight_hours": 11.48,
+	  "pressure_pa": 916.7
+	},
+	{
+	  "date": "SOL 1507",
+	  "radiation_dose_rate": 0.269,
+	  "surface_temp_c": -70.4,
+	  "surface_temp_max_c": -4.0,
+	  "sunlight_hours": 12.73,
+	  "pressure_pa": 914.4
+	},
+	{
+	  "date": "SOL 1508",
+	  "radiation_dose_rate": 0.27,
+	  "surface_temp_c": -70.2,
+	  "surface_temp_max_c": -1.9,
+	  "sunlight_hours": 12.41,
+	  "pressure_pa": 902.8
+	},
+	{
+	  "date": "SOL 1509",
+	  "radiation_dose_rate": 0.272,
+	  "surface_temp_c": -69.3,
+	  "surface_temp_max_c": 1.7,
+	  "sunlight_hours": 12.42,
+	  "pressure_pa": 907.5
+	},
+	{
+	  "date": "SOL 1510",
+	  "radiation_dose_rate": 0.272,
+	  "surface_temp_c": -69.6,
+	  "surface_temp_max_c": 1.5,
+	  "sunlight_hours": 12.42,
+	  "pressure_pa": 913.5
+	},
+	{
+	  "date": "SOL 1511",
+	  "radiation_dose_rate": 0.272,
+	  "surface_temp_c": -78.2,
+	  "surface_temp_max_c": 0.6,
+	  "sunlight_hours": 12.42,
+	  "pressure_pa": 911.5
+	},
+	{
+	  "date": "SOL 1512",
+	  "radiation_dose_rate": 0.276,
+	  "surface_temp_c": -79.4,
+	  "surface_temp_max_c": -1.5,
+	  "sunlight_hours": 12.33,
+	  "pressure_pa": 914.5
+	},
+	{
+	  "date": "SOL 1513",
+	  "radiation_dose_rate": 0.275,
+	  "surface_temp_c": -74.6,
+	  "surface_temp_max_c": -1.7,
+	  "sunlight_hours": 12.17,
+	  "pressure_pa": 910.4
+	}
+  ]
+}
