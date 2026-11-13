@@ -141,7 +141,7 @@ palette:
 | Fill (buttons, bars) | `#A070A1` |
 | Text and borders | `#724060` |
 
-Telemetry text uses **Space Mono** for a technical readout feel. The
+Telemetry text uses **Orbitron** and **Space Mono** for a technical readout feel. The
 history-chart lines are told apart by **line style** (solid, dashed, dotted,
 dash-dot), not colour. Kasei has six states (thriving, stable, strained,
 critical, failed, success), each a **two-frame animation**, with a head crop
